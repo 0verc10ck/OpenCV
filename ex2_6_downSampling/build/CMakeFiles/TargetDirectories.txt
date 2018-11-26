@@ -1,0 +1,5 @@
+/home/overclock/openCV/ex2_6_downSampling/build/CMakeFiles/rebuild_cache.dir
+/home/overclock/openCV/ex2_6_downSampling/build/CMakeFiles/edit_cache.dir
+/home/overclock/openCV/ex2_6_downSampling/build/src/CMakeFiles/rebuild_cache.dir
+/home/overclock/openCV/ex2_6_downSampling/build/src/CMakeFiles/ex2_6_downSampling.dir
+/home/overclock/openCV/ex2_6_downSampling/build/src/CMakeFiles/edit_cache.dir

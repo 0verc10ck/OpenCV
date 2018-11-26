@@ -1,0 +1,5 @@
+/home/overclock/openCV/ex2_7_Canny_edge/build/CMakeFiles/rebuild_cache.dir
+/home/overclock/openCV/ex2_7_Canny_edge/build/CMakeFiles/edit_cache.dir
+/home/overclock/openCV/ex2_7_Canny_edge/build/src/CMakeFiles/rebuild_cache.dir
+/home/overclock/openCV/ex2_7_Canny_edge/build/src/CMakeFiles/ex2_7_Canny_edge.dir
+/home/overclock/openCV/ex2_7_Canny_edge/build/src/CMakeFiles/edit_cache.dir

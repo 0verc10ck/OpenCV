@@ -1,0 +1,5 @@
+/home/overclock/openCV/ex2_3_video/build/CMakeFiles/rebuild_cache.dir
+/home/overclock/openCV/ex2_3_video/build/CMakeFiles/edit_cache.dir
+/home/overclock/openCV/ex2_3_video/build/src/CMakeFiles/rebuild_cache.dir
+/home/overclock/openCV/ex2_3_video/build/src/CMakeFiles/ex2_3_video.dir
+/home/overclock/openCV/ex2_3_video/build/src/CMakeFiles/edit_cache.dir

@@ -1,0 +1,5 @@
+/home/overclock/openCV/ex2_9_pixel/build/CMakeFiles/rebuild_cache.dir
+/home/overclock/openCV/ex2_9_pixel/build/CMakeFiles/edit_cache.dir
+/home/overclock/openCV/ex2_9_pixel/build/src/CMakeFiles/rebuild_cache.dir
+/home/overclock/openCV/ex2_9_pixel/build/src/CMakeFiles/ex2_9_pixel.dir
+/home/overclock/openCV/ex2_9_pixel/build/src/CMakeFiles/edit_cache.dir
